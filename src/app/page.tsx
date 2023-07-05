@@ -1,7 +1,11 @@
-import Image from 'next/image'
+"use client";
+
 
 export default function Home() {
-  return (
-    <h1>Home Page</h1>
-  )
-}
+  
+
+ 
+
+  return ( 
+  <div>Hello world</div>
+)}
